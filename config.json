@@ -1,0 +1,7 @@
+{   
+    "service": "oniondrop",
+    "listeningPort": 8088,
+    "adminUsers" : [
+        "example@mail.com"
+    ]
+}
